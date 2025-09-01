@@ -13601,6 +13601,13 @@
     github = "klDen";
     githubId = 5478260;
   };
+  kleha-tc = {
+    email = "kleha@klefpj.org";
+    matrix = "@kleha:matrix.org";
+    name = "Taniguchi Haruto";
+    github = "kleha-tc";
+    githubId = 130574047;
+  };
   klntsky = {
     email = "klntsky@gmail.com";
     name = "Vladimir Kalnitsky";
